@@ -1,1 +1,1 @@
-https://cdn.growpai.site/growpai/Growpai_5.39_12202025.zip
+https://cdn.growpai.site/growpai/Growpai_5.40_1172026.zip
