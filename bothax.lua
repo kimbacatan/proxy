@@ -1,1 +1,1 @@
-https://github.com/kimbacatan/proxy/releases/download/loader/B.INTERNAL.v5.42.r2.key.system.dll
+https://github.com/kimbacatan/proxy/releases/download/loader/B.INTERNAL.v5.45.r0.key.system.dll
