@@ -1,1 +1,1 @@
-https://github.com/kimbacatan/proxy/releases/download/loader/B.INTERNAL.v5.45.r0.key.system.dll
+https://cdn.discordapp.com/attachments/1075411415176851496/1498644619750281337/BINTERNAL_5.46_r0.dll?ex=69f1e910&is=69f09790&hm=05a9079282b32b5340e6e8a7a6b80b6ca74e6a1e5140a379efcdb891f713fec3&
