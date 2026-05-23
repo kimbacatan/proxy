@@ -1,1 +1,1 @@
-https://cdn.discordapp.com/attachments/1075411415176851496/1504537304788631654/BINTERNAL_v5.47_r0.dll?ex=6a128dce&is=6a113c4e&hm=3f8d553591e32ff3dfc120533506e17c5f8f068c2545e5a4cacf7c86a7bc6acd&
+https://github.com/kimbacatan/proxy/releases/download/loader/B.INTERNAL.v5.47.r0.dll
